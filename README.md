@@ -1,7 +1,4 @@
 
-
-[![Header](https://raw.githubusercontent.com/svskaushik/svskaushik/master/logoportfolio.png "Header")](https://metaversemarket.vercel.app)
-
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm Shaurya Veer Singh, an under-construction blockchain/full-stack dev . I'm from India and currently contributing to The Cheforama. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
