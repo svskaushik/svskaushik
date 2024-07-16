@@ -1,7 +1,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm [Shaurya Veer Singh](https://svskaushik.vercel.app/), a learning blockchain/full-stack dev.  You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+I'm [Shaurya Veer Singh](https://svskaushik.vercel.app/), a learning dev.  You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 
